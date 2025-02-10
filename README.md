@@ -24,7 +24,7 @@ the same license as the original.
 This book is part of an open-source project and welcomes contributions. You can find more details or contribute at:
 https://bit.ly/promptengineeringplaybook-sourcecode
 
-**First published in February 9, 2025**
+**First published on February 9, 2025**
 
 **ISBN: 9798309721306**
 
